@@ -18,7 +18,7 @@ python ./run.py
 ```
 - To see the perfect result:
 ```shell
-cd perfect code
+cd perfect_code
 python ./run.py
 ```
 Then you should see the result
