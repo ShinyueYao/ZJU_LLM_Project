@@ -1,0 +1,4 @@
+{
+    "prompt": "Generate another Python code in order to read a file './asset/processed_data.csv', then calculate the average, max, min value for each row(from 2nd row to 32nd). You need to get data in each row from 2nd column to 11th column, and append the results to the table. In other words, your task is: 1.read file'./asset/processed_data.csv' 2. Make an empty CSV file named'./asset/complete_data.csv' 3.For each row(from row 2 to 32), collect data from 2nd column to 11th column, transform their datatype from string to float write the average value, max value and min value of these data respectively in 12th 13th 14th column for each row. Notice that your result should only contain the python code, begin with import, end with a print function to print 'end of the code'. Besides, use utf-8-sig as encoding. Write the new result in './asset/complete_data.csv.",
+    "max_length": 400
+}

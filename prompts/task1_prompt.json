@@ -1,0 +1,4 @@
+{
+    "prompt": "Generate a Python code in order to read a text file './asset/常驻人口.txt', remove the header and footer then save the remaining data as './asset/processed_data.csv'. '数据库，指标，时间, 注，数据来源' are headers and footers, you must remove them while '北京市,吉林省' are useful data you should keep it. Just delete the first 3 rows and last 2 rows and write the other elements in CSV file. Your result should only contain the python code, begin with import, end with a print function to print 'end of the code', use utf-8-sig when write in CSV file.",
+    "max_length": 200
+}
