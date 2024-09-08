@@ -2,10 +2,12 @@
 **Course project for ZJU Summer course "LLM Application and Practice"** \
 Using LLM to generate code, then process, analyze and visualize data. 
 ## 0. Preview
-![](./asset/pie_chart.jpg)
-![](./asset/line_chart.jpg)
-
 - Platform: Windows
+- Tools: koboldcpp
+### Generated pie chart
+![](./asset/pie_chart.jpg)
+### Generated line chart
+![](./asset/line_chart.jpg)
 
 ## 1. Prepare
 - Download koboldcpp at [https://github.com/LostRuins/koboldcpp/releases/tag/v1.74](https://github.com/LostRuins/koboldcpp/releases/tag/v1.74)
