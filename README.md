@@ -1,7 +1,7 @@
 # ZJU_LLM_Project
-Course project for ZJU Summer course "LLM Application and Practice" \
+**Course project for ZJU Summer course "LLM Application and Practice"** \
 Using LLM to generate code, then process, analyze and visualize data. 
-##0. Preview
+## 0. Preview
 ![](./asset/pie_chart.jpg)
 ![](./asset/line_chart.jpg)
 
