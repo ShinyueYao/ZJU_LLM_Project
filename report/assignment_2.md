@@ -199,7 +199,7 @@ plt.show()
 
 输出的结果图像为：
 
-![piechart](./asset/report_pic/pie_chart.jpg)
+![pie_chart](./asset/report_pic/pie_chart.jpg)
 
 #### 4. 绘制浙江省折线图
 
@@ -229,7 +229,7 @@ find_and_plot()
 
 输出的结果为：
 
-![](./asset/report_pic/line_chart.jpg)
+![](../asset/report_pic/line_chart.jpg)
 
 
 
